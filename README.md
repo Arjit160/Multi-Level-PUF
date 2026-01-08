@@ -95,6 +95,6 @@ p, q, r, s = my_decode(w_full_65d)  # each is (64,)
 
 ## 👤 Credits
 
-- Author: Aaditya Amlan Panda
+- Author: Arjit Verma
 - Baseline: Handcrafted polynomial/chain features + linear SVM
 - License: MIT
